@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--corners就是控制圓角程度的 有5種-->
+
+    <!--Top Right 右上-->
+    <!--Top Left 左上-->
+    <!--Bottom Right 右下-->
+    <!--Bottom Left 左下-->
+    <!--radius 一次控制以上四個角-->
+
+    <corners android:radius="16dp"/>
+    <!--後面的值越大 角就越圓-->
+</shape>
